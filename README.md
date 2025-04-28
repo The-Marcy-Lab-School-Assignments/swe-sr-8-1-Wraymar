@@ -52,3 +52,6 @@ But before that coffee shows up, some behind-the-scenes magic happens. The order
 We do this for a few key reasons. First, **separation of concerns**—a core principle in web development—means keeping different types of code in their own respective places. This makes everything easier to read and maintain and makes fixing bugs much simpler.
 
 Beyond readability, some parts of an application simply have to be separate or they wouldn’t function correctly. We also don’t want users seeing everything that’s going on under the hood. Imagine driving a see-through car and watching the drive shaft spin, the pistons fire, and the engine combust—pretty unsettling, unless you’re a hardcore car enthusiast. The same goes for software: some things are best kept behind the scenes.
+
+-gonzalo
+I'll be making a pull request to add some feedback
